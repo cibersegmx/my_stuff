@@ -1,6 +1,5 @@
 <#
 .SYNOPSIS
-    Descarga PEM desde GitHub, conecta SSH, descarga note.txt, ejecuta
 #>
 
 # --- Auto-deteccion ---
